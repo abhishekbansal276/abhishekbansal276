@@ -1,4 +1,4 @@
-<h1> Hi<img src="https://giphy.com/gifs/art-animation-hello-26xBwdIuRJiAIqHwA" height="25px">, I'm Abhishek Bansal <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50"></h1>
+<h1> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm Abhishek Bansal <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50"></h1>
 <img align='right' src="Final Edits_ Faking It - Chris Cannon.gif" width="230">
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media2.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif?cid=ecf05e47q75x7p9q847d4btc3zxqqmppe8gn7jj2j3sajwtk&rid=giphy.gif&ct=s" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on android development</a><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"> 
 </em></p>
@@ -50,9 +50,9 @@ global Abhi = {
 
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=abhibansal276&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=abhishekbansal276&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhibansal276&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishekbansal276&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 #### 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekbansal276&theme=radical"/>
