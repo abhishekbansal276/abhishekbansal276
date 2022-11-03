@@ -43,19 +43,19 @@ global Abhi = {
 ## &#x1f4c8; GitHub Stats
  <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanChaturvedi24&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aman Chaturvedi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekbansal276&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abhishek Bansal" /></p>
 
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanChaturvedi24&theme=radical" alt="Aman Chaturvedi" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbansal276&theme=radical" alt="Abhishek BAnsal" /></p>
 
 
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AmanChaturvedi24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=abhibansal276&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhibansal276&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 #### 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanChaturvedi24&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekbansal276&theme=radical"/>
 </p>
 
 <br />
