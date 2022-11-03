@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media2.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif?cid=ecf05e47q75x7p9q847d4btc3zxqqmppe8gn7jj2j3sajwtk&rid=giphy.gif&ct=s" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on android development</a><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/aman-chaturvedi-0509601bb/">
+<a href="https://www.linkedin.com/in/abhishek-bansal-606343200/">
   <img align="left" alt="Aman Chaturvedi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -17,11 +17,9 @@
 global Abhi = {
   'pronouns': 'he' | 'him',
   'code': [JAVA, Kotlin, Android development, HTML, CSS, C, C++, Python],
-  'tools': [Node.js, OpenCV, Bootstrap],
-  'architecture': ["IDK"],
-
-  'challenge': "Productivity and Passion, To overcome the  resistance and drag of society"
-  'what do I like other than coding?': "Reading Books, Singing, Exploring, Taking-challenges"
+  'tools': [Node.js, OpenCV],
+  'database': [Firebase, SQL],
+  'platform': [Windows, Linux]
 }
 ```
 
@@ -34,11 +32,9 @@ global Abhi = {
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-THREE.JS-informational?style=flat&logo=THREE.JS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vanilla.JS-informational?style=flat&logo=Vanilla.JS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-E34F26?&style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
  <div align="center">
