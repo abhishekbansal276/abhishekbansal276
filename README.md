@@ -4,11 +4,11 @@
 </em></p>
 
 <a href="https://www.linkedin.com/in/abhishek-bansal-606343200/">
-  <img align="left" alt="Aman Chaturvedi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek Bansal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=AmanChaturvedi24)
+![](https://visitor-badge.glitch.me/badge?page_id=abhishekbansal276)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
