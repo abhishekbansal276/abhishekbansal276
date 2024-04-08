@@ -1,4 +1,4 @@
-<h1> Hi<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" height="25px">, I'm Abhishek Bansal <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="50"></h1>
+<h1> Hi<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" height="25px">, I'm Abhishek Bansal </h1>
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media2.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif?cid=ecf05e47q75x7p9q847d4btc3zxqqmppe8gn7jj2j3sajwtk&rid=giphy.gif&ct=s" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on Scala Development.</a><img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> 
 </em></p>
